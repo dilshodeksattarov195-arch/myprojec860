@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configsender",
+        "uuid": 1704520,
+        "checksum": "6kyxah"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
